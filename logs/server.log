@@ -1,0 +1,164 @@
+2019.06.13 20:35:17.315 INFO  Model.MyModel - Cient connected to server with port 5400 via stratedy Model.MyModel$1@24057972.
+2019.06.13 20:49:04.703 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@52f82fac With pool 4.
+2019.06.13 20:49:04.713 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.13 20:49:06.907 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@6790857a With pool 4.
+2019.06.13 20:49:06.907 INFO  Model.MyModel - Cient solved a maze via BESTFS solving strategy
+2019.06.15 15:00:17.947 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@684bc2ff With pool 4.
+2019.06.15 15:00:17.954 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 15:00:22.197 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@3e51c4f8 With pool 4.
+2019.06.15 15:00:22.198 INFO  Model.MyModel - Cient solved a maze via BESTFS solving strategy
+2019.06.15 15:00:56.925 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@183424f7 With pool 4.
+2019.06.15 15:00:56.933 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:02:40.193 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@183424f7 With pool 4.
+2019.06.15 16:02:40.200 INFO  Model.MyModel - Cient gentrated a maze via SimpleMaze generating strategy
+2019.06.15 16:04:48.054 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@52b01b4f With pool 4.
+2019.06.15 16:04:48.057 INFO  Model.MyModel - Cient gentrated a maze via SimpleMaze generating strategy
+2019.06.15 16:05:41.085 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@25bf3531 With pool 4.
+2019.06.15 16:05:41.085 INFO  Model.MyModel - Cient gentrated a maze via SimpleMaze generating strategy
+2019.06.15 16:05:50.776 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7c02484b With pool 4.
+2019.06.15 16:05:50.776 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:06:02.952 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7d40ca29 With pool 4.
+2019.06.15 16:06:02.953 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:12:42.862 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@398527e5 With pool 4.
+2019.06.15 16:12:42.864 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:13:38.005 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@4747357f With pool 4.
+2019.06.15 16:13:38.007 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:14:15.248 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@25234640 With pool 4.
+2019.06.15 16:14:15.252 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:14:17.453 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@10853289 With pool 4.
+2019.06.15 16:14:17.454 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy
+2019.06.15 16:15:36.469 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@e63d3fb With pool 4.
+2019.06.15 16:15:36.472 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:15:38.167 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@3cfceeaf With pool 4.
+2019.06.15 16:15:38.168 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy
+2019.06.15 16:16:35.332 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@f561549 With pool 4.
+2019.06.15 16:16:35.334 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:23:07.366 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 16:23:07.368 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:23:19.949 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@aa040dc With pool 4.
+2019.06.15 16:23:19.949 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:50:47.487 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7eb598e4 With pool 4.
+2019.06.15 16:50:47.489 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:50:58.090 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@3872bcc1 With pool 4.
+2019.06.15 16:50:58.090 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:57:31.146 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7d07f52 With pool 4.
+2019.06.15 16:57:31.148 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 16:57:58.444 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@5a811ff9 With pool 4.
+2019.06.15 16:57:58.444 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:22:43.138 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@21723618 With pool 4.
+2019.06.15 17:22:43.147 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:27:22.158 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@398527e5 With pool 4.
+2019.06.15 17:27:22.161 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:28:26.373 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 17:28:26.375 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:29:47.199 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 17:29:47.201 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:44:29.234 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@4747357f With pool 4.
+2019.06.15 17:44:29.236 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:45:50.845 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@1922062d With pool 4.
+2019.06.15 17:45:50.847 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:51:40.045 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@183424f7 With pool 4.
+2019.06.15 17:51:40.048 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:52:06.927 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@66e424b4 With pool 4.
+2019.06.15 17:52:06.929 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 17:55:17.769 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 17:55:17.771 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:01:44.791 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@600a9d4b With pool 4.
+2019.06.15 18:01:44.793 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:05:54.770 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@600a9d4b With pool 4.
+2019.06.15 18:05:54.773 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:06:16.404 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@398527e5 With pool 4.
+2019.06.15 18:06:16.406 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:08:03.544 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@14a28163 With pool 4.
+2019.06.15 18:08:03.546 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:08:06.865 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@77615f8e With pool 4.
+2019.06.15 18:08:06.866 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:08:08.862 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@592bdd82 With pool 4.
+2019.06.15 18:08:08.862 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:08:10.851 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@60759f1a With pool 4.
+2019.06.15 18:08:10.851 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:08:35.429 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7cd491a0 With pool 4.
+2019.06.15 18:08:35.433 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:10:39.636 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@398527e5 With pool 4.
+2019.06.15 18:10:39.639 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:12:33.925 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@398527e5 With pool 4.
+2019.06.15 18:12:33.927 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:16:23.217 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 18:16:23.219 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:17:11.664 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@14a28163 With pool 4.
+2019.06.15 18:17:11.666 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:18:18.226 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 18:18:18.229 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:18:43.484 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@24057972 With pool 4.
+2019.06.15 18:18:43.486 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:21:43.625 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@600a9d4b With pool 4.
+2019.06.15 18:21:43.630 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:21:46.519 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@3287c1c6 With pool 4.
+2019.06.15 18:21:46.519 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:22:29.484 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@3d07bcec With pool 4.
+2019.06.15 18:22:29.491 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:24:30.702 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7cd491a0 With pool 4.
+2019.06.15 18:24:30.705 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:24:32.418 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@e5c3cfa With pool 4.
+2019.06.15 18:24:32.422 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy. Maze was solved in 13 steps.
+2019.06.15 18:24:48.095 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@600a9d4b With pool 4.
+2019.06.15 18:24:48.097 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:24:55.064 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@66fdc8e9 With pool 4.
+2019.06.15 18:24:55.064 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:26:04.252 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@6163d921 With pool 4.
+2019.06.15 18:26:04.254 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:27:26.906 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@4ea6a768 With pool 4.
+2019.06.15 18:27:26.909 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:30:30.269 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@156169a9 With pool 4.
+2019.06.15 18:30:30.271 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:31:10.769 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@183424f7 With pool 4.
+2019.06.15 18:31:10.771 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 18:33:43.039 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@6163d921 With pool 4.
+2019.06.15 18:33:43.042 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:06:43.430 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@26d6e6a9 With pool 4.
+2019.06.15 19:06:43.433 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:07:25.936 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@d5e1c6a With pool 4.
+2019.06.15 19:07:25.938 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:07:35.219 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@f070799 With pool 4.
+2019.06.15 19:07:35.219 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:09:29.754 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@600a9d4b With pool 4.
+2019.06.15 19:09:29.756 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:09:39.742 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@34ea7db3 With pool 4.
+2019.06.15 19:09:39.742 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:09:42.082 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@3d4817f4 With pool 4.
+2019.06.15 19:09:42.082 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy. Maze was solved in 10 steps.
+2019.06.15 19:12:56.963 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@183424f7 With pool 4.
+2019.06.15 19:12:56.965 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:12:58.700 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@730deb20 With pool 4.
+2019.06.15 19:12:58.701 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy. Maze was solved in 10 steps.
+2019.06.15 19:13:13.701 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@3d8459d2 With pool 4.
+2019.06.15 19:13:13.702 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:13:17.551 INFO  Model.MyModel - Stopping server: Server.Server@56a7d6db
+2019.06.15 19:13:17.551 INFO  Model.MyModel - Stopping server: Server.Server@4bf48f29
+2019.06.15 19:22:35.590 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@124e74d5 With pool 4.
+2019.06.15 19:22:35.592 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:22:38.088 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@246286d8 With pool 4.
+2019.06.15 19:22:38.088 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy. Maze was solved in 11 steps.
+2019.06.15 19:22:51.683 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@a58eafd With pool 4.
+2019.06.15 19:22:51.683 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:22:56.803 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@77ac037b With pool 4.
+2019.06.15 19:22:56.804 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:23:00.044 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@344e043f With pool 4.
+2019.06.15 19:23:00.045 INFO  Model.MyModel - Cient solved a maze via DFS solving strategy. Maze was solved in 14 steps.
+2019.06.15 19:23:51.952 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@6aa161dd With pool 4.
+2019.06.15 19:23:51.952 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 19:23:57.160 INFO  Model.MyModel - Stopping server: Server.Server@1ff328e1
+2019.06.15 19:23:57.169 INFO  Model.MyModel - Stopping server: Server.Server@49e00e56
+2019.06.15 20:46:46.091 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@237615 With pool 4.
+2019.06.15 20:46:46.099 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 20:48:09.363 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@b68739 With pool 4.
+2019.06.15 20:48:09.363 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2019.06.15 20:48:59.098 INFO  Model.MyModel - Stopping server: Server.Server@2164da
+2020.06.07 20:31:47.675 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@683cb11a With pool 4.
+2020.06.07 20:31:47.678 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2020.06.07 20:31:53.185 INFO  Model.MyModel - Cient connected to server with port 5401 via strategy Model.MyModel$2@757f305 With pool 4.
+2020.06.07 20:31:53.185 INFO  Model.MyModel - Cient solved a maze via BFS solving strategy. Maze was solved in 14 steps.
+2020.06.07 20:32:11.316 INFO  Model.MyModel - Cient connected to server with port 5400 via strategy Model.MyModel$1@7536d7c3 With pool 4.
+2020.06.07 20:32:11.317 INFO  Model.MyModel - Cient gentrated a maze via MyMaze generating strategy
+2020.06.07 20:32:14.126 INFO  Model.MyModel - Stopping server: Server.Server@6e65c425
+2020.06.07 20:32:14.127 INFO  Model.MyModel - Stopping server: Server.Server@5c2639b3

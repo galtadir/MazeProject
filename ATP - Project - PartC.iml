@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <ANNOTATIONS>
+          <root url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/resources" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="AnimationFX" type="repository">
+        <properties maven-id="io.github.typhon0:AnimateFX:1.2.1" />
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/io/github/typhon0/AnimateFX/1.2.1/AnimateFX-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="ATPB6" level="project" />
+  </component>
+</module>

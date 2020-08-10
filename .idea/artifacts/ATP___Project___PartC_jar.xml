@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ATP - Project - PartC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATP___Project___PartC_jar</output-path>
+    <root id="archive" name="ATP - Project - PartC.jar">
+      <element id="module-output" name="ATP - Project - PartC" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/typhon0/AnimateFX/1.2.1/AnimateFX-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.9.1/log4j-core-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.9.1/log4j-api-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../312358054_302361647 (3)/ATP - Project - PartB/out/artifacts/ATP___Project___PartB_jar/ATPB6.jar" path-in-jar="/" />
+      <element id="library" level="module" name="resources" module-name="ATP - Project - PartC" />
+    </root>
+  </artifact>
+</component>

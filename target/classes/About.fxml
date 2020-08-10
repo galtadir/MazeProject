@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="527.0" prefWidth="847.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.AboutController">
+   <children>
+      <Label fx:id="labtest" layoutX="49.0" layoutY="77.0" text="Developers:&#10;&#10;Gal Tadir 312358054&#10;&#10;Alon Golombek 302361647&#10;&#10;Ben Gurion University &#10;&#10;Advanced programming topics course project&#10;&#10;Maze Generating Algorithms: Empty Maze Generator, Simple Maze Generator, My Maze Generator&#10;&#10;Maze Solving Algorithms: Deep First Search, Breadth First Search, Best First Search" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+.root{
+    -fx-background-image : url("Images/EdZG148.jpg");
+}
+
+.label{
+    -fx-font-weight: bold;
+    -fx-text-fill: #fffe91;
+    -fx-effect: dropshadow( one-pass-box , rgb(0, 0, 0), 0, 0.0 , 0 , 1 );
+    -fx-font-size: 17px;
+}

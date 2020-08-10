@@ -1,0 +1,65 @@
+
+.root{
+    -fx-background-image : url("Images/bgSail2.jpg");
+}
+.button {
+    -fx-background-color: linear-gradient(#ffd65b, #e68400),
+    linear-gradient(#ffef84, #f2ba44),
+    linear-gradient(#ffea6a, #efaa22),
+    linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+    linear-gradient(from 0% 0% to 15% 50%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0, 1, 2, 3, 0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+    -fx-padding: 10 20 10 20;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#fff2c5, #f2da95),
+    linear-gradient(#fff2c5, #f2da95),
+    linear-gradient(#fff2c5, #f2da95),
+    linear-gradient(#fffe91 0%, #f8f266 50%, #eed225 100%),
+    linear-gradient(from 0% 0% to 15% 50%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0, 1, 2, 3, 0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+    -fx-padding: 10 20 10 20;
+}
+
+.button:pressed{
+    -fx-background-color: linear-gradient(#ffe45a, #f2a335),
+    linear-gradient(#ffe45a, #f2a335),
+    linear-gradient(#ffe45a, #f2a335),
+    linear-gradient(#ffe45a 0%, #f8d22e 50%, #f2a335 100%),
+    linear-gradient(from 0% 0% to 15% 50%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0, 1, 2, 3, 0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+    -fx-padding: 10 20 10 20;
+}
+
+#txt{
+    -fx-font-weight: bold;
+    -fx-text-fill: linear-gradient(#ffe45a, #f2a335);
+    -fx-effect: dropshadow( one-pass-box , rgb(0, 0, 0), 0, 0.0 , 0 , 1 );
+    -fx-font-size: 25px;
+     -fx-background-color: rgba(254, 255, 53, 0.1);
+}
+
+.menu-bar{
+    -fx-background-color: linear-gradient(#ffd65b, #f6ff43);
+}
+
+.label{
+    -fx-text-fill: #ec831a;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+
